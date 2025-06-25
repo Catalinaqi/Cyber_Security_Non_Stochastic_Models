@@ -1,0 +1,29 @@
+# Virtual environments
+virtual_env_non_stochastic_model/
+venv/
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.idea/
+*.iml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# C extensions and compiled files
+*.so
+
+# macOS system files
+.DS_Store
